@@ -2,6 +2,8 @@
 - 👀 I’m interested in web Devlopment
 - 🌱 I’m currently learning Javascript and DSA
 - 📫 How to reach me: shivanjali1108@gmail.com
+- Instagram-_shivanjali_11
+- 
 
 
 <!---
