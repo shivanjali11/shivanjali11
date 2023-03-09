@@ -1,4 +1,4 @@
-[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.-ntL3Dsvc-dJ5cLGRtSuEwHaC3&pid=Api&P=0)]()
+
 <h1 align="center">Hi 👋, I'm Shivanjali Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
