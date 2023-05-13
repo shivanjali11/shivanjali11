@@ -3,11 +3,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="left"> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanjali11" alt="shivanjali11" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@shivanjali1108" target="blank"><img src="https://img.shields.io/twitter/follow/@shivanjali1108?logo=twitter&style=for-the-badge" alt="@shivanjali1108" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript and React**
 
