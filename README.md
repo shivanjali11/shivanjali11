@@ -27,5 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanjali11&show_icons=true&locale=en&layout=compact" alt="shivanjali11" /></p>
 [![shivanjali11's GitHub | Topics Over Time](https://stats.quine.sh/shivanjali11/topics-over-time?theme=light)](https://quine.sh)
-
+[![shivanjali11's GitHub | Stats](https://stats.quine.sh/shivanjali11/github?theme=light)](https://quine.sh)
 
