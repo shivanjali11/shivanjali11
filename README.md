@@ -18,7 +18,6 @@
 <a href="https://instagram.com/_shivanjali_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivanjali_11" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivan_11jali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivan_11jali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivanjali1108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivanjali1108" height="30" width="40" /></a>
-  [![shivanjali11's GitHub | Languages Over Time](https://stats.quine.sh/shivanjali11/languages-over-time?theme=light)](https://quine.sh)
 <a href="https://www.leetcode.com/shivanjali_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivanjali_11" height="30" width="40" /></a>
 </p>
 
