@@ -20,5 +20,6 @@
 
 <a href="https://www.leetcode.com/shivanjali_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivanjali_11" height="30" width="40" /></a>
 </p>
+![Shivanjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanjali11&show_icons=true&theme=transparent)
 
 
