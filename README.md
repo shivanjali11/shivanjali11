@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **DSA and Django**
 
 - 📫 How to reach me **shivanjali1108@gmail.com**
 
